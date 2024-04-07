@@ -1,4 +1,4 @@
-<img width="100%" src="blob:https://web.whatsapp.com/8da322be-42d5-4df3-a3b6-5f65289bbde5"/>
+<img width="100%" src="https://scontent.frak1-2.fna.fbcdn.net/v/t39.30808-6/433989083_122100033014271644_3323418594587343647_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEPwf2Ct8kcqcG-pp4onLTYDm1f2RJwnbAObV_ZEnCdsKGJQwoqGyAK32VEjuB0xKocEOuQDHL-YbuHNGBW-Wf1&_nc_ohc=ojiIEuvo7t4Ab6B6Ikk&_nc_ht=scontent.frak1-2.fna&oh=00_AfCfFAInTQo8LS0lCEbQOANI7GmeB78MWTD_iBBdpbytig&oe=6618E903"/>
 <h1 align="center">Hi 👋, I'm Salma EL HAZAL</h1>
 
 <h3 align="center">A passionate Cloud & DevOps engineering student and a software engineering enthusiast</h3>
@@ -44,7 +44,7 @@
 <h4>Languages</h4>
 
 
-<img alt="Python" src="https://img.shields.io/badge/Python-000.svg?logo=python&style=for-the-badge"/> <img src="https://img.shields.io/badge/JS-000.svg?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=java&logoColor=ed8b00"/> <img alt="C" src="https://img.shields.io/badge/c-000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=2a518c"/> <img alt="C++" src="https://img.shields.io/badge/c++-000.svg?style=for-the-badge&logo=cpp%2B%2B&logoColor=2a518c"/> <img alt=" Bash" src="https://img.shields.io/badge/Bash-000.svg?&logo=gnu-bash&style=for-the-badge"/> <img alt=" Latex" src="https://img.shields.io/badge/latex-000.svg?style=for-the-badge&logo=latex&logoColor=007c7c"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-000.svg?logo=python&style=for-the-badge"/> <img src="https://img.shields.io/badge/JS-000.svg?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=java&logoColor=ed8b00"/> <img alt="C" src="https://img.shields.io/badge/c-000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=2a518c"/> <img alt="C++" src="https://img.shields.io/badge/c++-000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=2a518c"/> <img alt=" Bash" src="https://img.shields.io/badge/Bash-000.svg?&logo=gnu-bash&style=for-the-badge"/> <img alt=" Latex" src="https://img.shields.io/badge/latex-000.svg?style=for-the-badge&logo=latex&logoColor=007c7c"/>
 
 <h4>Software Development </h4>
 
