@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Salma EL HAZAL</h1>
 
-<h3 align="center">A Self-Taught Web Developer , a Software Engineering Student and an IT Enthusiast !</h3>
+<h3 align="center">A passionate Cloud & DevOps engineering student and a software engineering enthusiast</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Web+Developer;UX/UI+Enthusiast;Open+Source+Lover%20&center=true&width=500&height=50"></a>
