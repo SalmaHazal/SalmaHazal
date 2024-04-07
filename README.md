@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-2.png"/>
+<img src="[https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-2.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif)"/>
 <h1 align="center">Hi 👋, I'm Salma EL HAZAL</h1>
 
 <h3 align="center">A passionate Cloud & DevOps engineering student and a software engineering enthusiast</h3>
