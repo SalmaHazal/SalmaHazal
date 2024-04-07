@@ -7,11 +7,13 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7550C7&center=true&random=false&width=435&lines=+Cloud+%26+DevOps+engineering+student%E2%98%81%EF%B8%8F;Software+Engineering+Enthusiast%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;UI+%2F+UX+Lover%F0%9F%8E%A8;Loves+Problem+Solving%F0%9F%94%8E" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=ossamalouati&style=for-the-badge&color=130F60" />
+<p> 
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
-<p align="left">
-   <img src="https://komarev.com/ghpvc/?username=ossamalouati&style=for-the-badge&color=130F60" />
-<p>  
+ 
 
 <h2 align="left">You can find me in</h2>
 
