@@ -44,7 +44,7 @@
 <h4>Languages</h4>
 
 
-<img alt="Python" src="https://img.shields.io/badge/Python-000.svg?logo=python&style=for-the-badge"/> <img src="https://img.shields.io/badge/JS-000.svg?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=java&logoColor=ed8b00"/> <img alt="C++" src="https://img.shields.io/badge/c++-000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=2a518c"/> <img alt=" Bash" src="https://img.shields.io/badge/Bash-000.svg?&logo=gnu-bash&style=for-the-badge"/> <img alt=" Latex" src="https://img.shields.io/badge/latex-000.svg?style=for-the-badge&logo=latex&logoColor=007c7c"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-000.svg?logo=python&style=for-the-badge"/> <img src="https://img.shields.io/badge/JS-000.svg?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=java&logoColor=ed8b00"/> <img alt="C" src="https://img.shields.io/badge/c-000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=2a518c"/> <img alt="C++" src="https://img.shields.io/badge/c++-000.svg?style=for-the-badge&logo=cpp%2B%2B&logoColor=2a518c"/> <img alt=" Bash" src="https://img.shields.io/badge/Bash-000.svg?&logo=gnu-bash&style=for-the-badge"/> <img alt=" Latex" src="https://img.shields.io/badge/latex-000.svg?style=for-the-badge&logo=latex&logoColor=007c7c"/>
 
 <h4>Software Development </h4>
 
