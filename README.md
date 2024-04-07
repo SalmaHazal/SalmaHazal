@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-2.png))](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-2.png))]()
 <h1 align="center">Hi 👋, I'm Salma EL HAZAL</h1>
 
 <h3 align="center">A passionate Cloud & DevOps engineering student and a software engineering enthusiast</h3>
