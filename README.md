@@ -1,4 +1,4 @@
-<img width="100%" src="file:///C:/Users/salma/Desktop/68747470733a2f2f626c6f676765722e676f6f676c6575736572636f6e74656e742e636f6d2f696d672f622f523239765a32786c2f4156765873456737564c616b477858593378ll6f426537546e3479686b326d6868765a7266574c43563348705a4f764a6364567258615955.gif"/>
+<img width="100%" src="blob:https://web.whatsapp.com/8da322be-42d5-4df3-a3b6-5f65289bbde5"/>
 <h1 align="center">Hi 👋, I'm Salma EL HAZAL</h1>
 
 <h3 align="center">A passionate Cloud & DevOps engineering student and a software engineering enthusiast</h3>
