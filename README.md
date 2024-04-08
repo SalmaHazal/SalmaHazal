@@ -60,7 +60,7 @@
 
 <h4>Software </h4>
 
-<img src="https://img.shields.io/badge/figma-000.svg?style=for-the-badge&logo=figma"/> <img src="https://img.shields.io/badge/Adobe_photoshop-000.svg?style=for-the-badge&logo=adobephotoshop"/> <img src="https://img.shields.io/badge/Arduino_IDE-000.svg?style=for-the-badge&logo=arduino"/> <img src="https://img.shields.io/badge/canva-000.svg?style=for-the-badge&logo=canva"/>
+<img src="https://img.shields.io/badge/figma-000.svg?style=for-the-badge&logo=figma"/> <img src="https://img.shields.io/badge/Adobe_photoshop-000.svg?style=for-the-badge&logo=adobephotoshop"/> <img src="https://img.shields.io/badge/Arduino_IDE-000.svg?style=for-the-badge&logo=arduino"/> <img src="https://img.shields.io/badge/canva-000.svg?style=for-the-badge&logo=canva"/> <img src="https://img.shields.io/badge/latex-000.svg?style=for-the-badge&logo=latex"/>
 
 <h4>Others </h4>
 
