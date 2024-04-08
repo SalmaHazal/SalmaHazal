@@ -59,10 +59,10 @@
 <img src="https://img.shields.io/badge/MySQL-000.svg?style=for-the-badge&logo=mysql"/>
 
 <h4>Software </h4>
+
 <img src="https://img.shields.io/badge/figma-000.svg?style=for-the-badge&logo=figma"/> <img src="https://img.shields.io/badge/Adobe_photoshop-000.svg?style=for-the-badge&logo=adobephotoshop"/> <img src="https://img.shields.io/badge/Arduino_IDE-000.svg?style=for-the-badge&logo=arduino"/> <img src="https://img.shields.io/badge/canva-000.svg?style=for-the-badge&logo=canva"/>
 
-
-
 <h4>Others </h4>
+
 <img src="https://img.shields.io/badge/git-000.svg?style=for-the-badge&logo=git"> <img src="https://img.shields.io/badge/-Linux-000.svg?&amp;logo=Linux&amp;style=for-the-badge" alt="Linux"> <img src="https://img.shields.io/badge/WordPress-000.svg?style=for-the-badge&logo=WordPress"/>
 
