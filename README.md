@@ -66,3 +66,8 @@
 
 <img src="https://img.shields.io/badge/git-000.svg?style=for-the-badge&logo=git"> <img src="https://img.shields.io/badge/-Linux-000.svg?&amp;logo=Linux&amp;style=for-the-badge" alt="Linux"> <img src="https://img.shields.io/badge/WordPress-000.svg?style=for-the-badge&logo=WordPress"/>
 
+
+<p align="center">
+  <i>Random dev joke for you!</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+  </p>
