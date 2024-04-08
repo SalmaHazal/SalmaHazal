@@ -48,7 +48,7 @@
 
 <h4>Frontend Development </h4>
 
-<img src="https://img.shields.io/badge/html-000.svg?style=for-the-badge&logo=html5&logoColor=ed8b00"/> <img src="https://img.shields.io/badge/css-000.svg?style=for-the-badge&logo=css3&logoColor=green"/> <img src="https://img.shields.io/badge/Bootstrap-000.svg?style=for-the-badge&logo=bootstrap&logoColor=ed8b00"/> <img src="https://img.shields.io/badge/React-000.svg?style=for-the-badge&logo=react"/> 
+<img src="https://img.shields.io/badge/html-000.svg?style=for-the-badge&logo=html5&logoColor=ed8b00"/> <img src="https://img.shields.io/badge/css-000.svg?style=for-the-badge&logo=css3&logoColor=green"/> <img src="https://img.shields.io/badge/Bootstrap-000.svg?style=for-the-badge&logo=bootstrap&logoColor=ed8b00"/> <img src="https://img.shields.io/badge/React-000.svg?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/jQuery-000.svg?style=for-the-badge&logo=jquery"/>
      
 <h4>Backend Development </h4>
 
