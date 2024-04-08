@@ -47,12 +47,15 @@
 <img alt="Python" src="https://img.shields.io/badge/Python-000.svg?logo=python&style=for-the-badge"/> <img src="https://img.shields.io/badge/JS-000.svg?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=java&logoColor=ed8b00"/> <img alt="C" src="https://img.shields.io/badge/c-000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=2a518c"/> <img alt="C++" src="https://img.shields.io/badge/c++-000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=2a518c"/> <img alt=" Bash" src="https://img.shields.io/badge/Bash-000.svg?&logo=gnu-bash&style=for-the-badge"/> <img alt=" Latex" src="https://img.shields.io/badge/latex-000.svg?style=for-the-badge&logo=latex&logoColor=007c7c"/>
 
 <h4>Frontend Development </h4>
+
 <img src="https://img.shields.io/badge/html-000.svg?style=for-the-badge&logo=html5&logoColor=ed8b00"/> <img src="https://img.shields.io/badge/css-000.svg?style=for-the-badge&logo=css3&logoColor=green"/> <img src="https://img.shields.io/badge/Bootstrap-000.svg?style=for-the-badge&logo=bootstrap&logoColor=ed8b00"/> <img src="https://img.shields.io/badge/React-000.svg?style=for-the-badge&logo=react"/> 
      
 <h4>Backend Development </h4>
+
 <img src="https://img.shields.io/badge/Node.js-000.svg?style=for-the-badge&logo=node.js"/> <img src="https://img.shields.io/badge/PHP-000.svg?style=for-the-badge&logo=php"/>
 
 <h4>Database </h4>
+
 <img src="https://img.shields.io/badge/MySQL-000.svg?style=for-the-badge&logo=mysql"/>
 
 <h4>Software </h4>
@@ -61,5 +64,5 @@
 
 
 <h4>Others </h4>
-<img src="<img src=""/>"/> <img src="https://img.shields.io/badge/-Linux-000.svg?&amp;logo=Linux&amp;style=for-the-badge" alt="Linux"> <img src="https://img.shields.io/badge/WordPress-000.svg?style=for-the-badge&logo=WordPress"/>
+<img src="https://img.shields.io/badge/git-000.svg?style=for-the-badge&logo=git"> <img src="https://img.shields.io/badge/-Linux-000.svg?&amp;logo=Linux&amp;style=for-the-badge" alt="Linux"> <img src="https://img.shields.io/badge/WordPress-000.svg?style=for-the-badge&logo=WordPress"/>
 
