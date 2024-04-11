@@ -1,5 +1,5 @@
 <img width="100%" src="https://scontent.frak1-2.fna.fbcdn.net/v/t39.30808-6/433989083_122100033014271644_3323418594587343647_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEPwf2Ct8kcqcG-pp4onLTYDm1f2RJwnbAObV_ZEnCdsKGJQwoqGyAK32VEjuB0xKocEOuQDHL-YbuHNGBW-Wf1&_nc_ohc=ojiIEuvo7t4Ab6B6Ikk&_nc_ht=scontent.frak1-2.fna&oh=00_AfCfFAInTQo8LS0lCEbQOANI7GmeB78MWTD_iBBdpbytig&oe=6618E903"/>
-<h1 align="center">Hi 👋, I'm Salma EL HAZAL</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Salma EL HAZAL</h1>
 
 <h3 align="center">A passionate Cloud & DevOps engineering student and a software engineering enthusiast</h3>
 
